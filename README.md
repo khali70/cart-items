@@ -1,6 +1,5 @@
 # [Preview](https://kahli-cart-app.herokuapp.com/)
 
-this is a react project form [hamza Nabil channal](https://www.youtube.com/channel/UCq_xgufsy1KrGsmJq7mFH-g)
 [![preview img](./preview.png)](https://kahli-cart-app.herokuapp.com/)
 
 click the [link](https://kahli-cart-app.herokuapp.com/) to see the website
